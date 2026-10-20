@@ -10,3 +10,5 @@ Materials List
 2 x LEDs (D1 & D2): Red Light Emitting Diodes (for Kirby's cheeks).
 
 2 x Resistors (R1 & R2): 220-ohm (220Ω) surface-mount resistors.
+
+Btw, my slack user is: adee (the one with a crocheted white plushie on its pfp)
